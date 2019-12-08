@@ -4,8 +4,6 @@
   <test name="Test">
     <packages>
       <package name="com.ActiTIME.Test"/>
-    </packages>
-    
-    
+    </packages> 
   </test> <!-- Test -->
 </suite> <!-- Suite -->
